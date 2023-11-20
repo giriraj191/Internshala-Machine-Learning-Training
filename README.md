@@ -1,2 +1,2 @@
 # Internshala-Machine-Learning-Training
-All Assignments + All Projects + Final Projects + Complete Certificate
+Internshala ML Training Projects and Assignments Completed with Certification
